@@ -9,7 +9,7 @@ import (
 	"github.com/stretchr/testify/require"
 	"github.com/stretchr/testify/suite"
 
-	"github.com/werks/werks-go/tlsprofile"
+	"github.com/egustafson/werks-go/tlsprofile"
 )
 
 func TestTLSProfileTestSuite(t *testing.T) {

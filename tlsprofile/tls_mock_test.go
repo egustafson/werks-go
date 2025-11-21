@@ -7,7 +7,7 @@ import (
 
 	"github.com/stretchr/testify/assert"
 
-	wutil "github.com/werks/werks-go/tlsprofile"
+	wutil "github.com/egustafson/werks-go/tlsprofile"
 )
 
 func TestMakeCertAndKey(t *testing.T) {
