@@ -1,4 +1,4 @@
-package wutil
+package configr
 
 import (
 	"fmt"
